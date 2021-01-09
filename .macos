@@ -60,7 +60,7 @@ homebrew/cask-fonts/font-fira-code font-fira-sans font-gidole \
 font-hack font-ia-writer-mono hazel hazeover iina inkscape insomnia istat-menus \
 visual-studio-code zoomus qlcolorcode qlmarkdown qlstephen \
 quicklook-json webpquicklook suspicious-package qlvideo focus qmoji slack \
-iterm2 logitech-options muzzle netnewswire openaudible rectangle \
+iterm2 homebrew/cask-drivers/logitech-options muzzle netnewswire openaudible rectangle \
 rocket sizzy tidal transmit yubico-authenticator
 
 
