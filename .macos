@@ -55,7 +55,7 @@ npm install --global fkill-cli pure-prompt svgo
 echo "installing apps with brew cask"
 brew install --cask 1password aerial alfred angry-ip-scanner \
 appcleaner backblaze bartender calibre cardhop dash discord \
-fantastical firefox-developer-edition flux font-fira-code \
+fantastical homebrew/cask-versions/firefox-developer-edition flux font-fira-code \
 font-fira-sans font-gidole font-hack font-ia-writer-mono \
 hazel hazeover iina inkscape insomnia istat-menus \
 visual-studio-code zoomus qlcolorcode qlmarkdown qlstephen \
