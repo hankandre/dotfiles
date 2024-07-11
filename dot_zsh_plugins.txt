@@ -1,0 +1,17 @@
+zsh-users/zsh-completions
+romkatv/zsh-bench kind:path
+olets/zsh-abbr
+
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:plugins/git
+
+belak/zsh-utils path:editor
+belak/zsh-utils path:history
+belak/zsh-utils path:prompt
+belak/zsh-utils path:utility
+
+
+
+mattmc3/zfunctions
+zsh-users/zsh-autosuggestions
+zdharma-continuum/fast-syntax-highlighting kind:defer

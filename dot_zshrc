@@ -1,0 +1,30 @@
+# Created by newuser for 5.9
+# source antidote
+source "$HOME/.antidote/antidote.zsh"
+
+# initialize plugins statically
+antidote load
+
+export LANG=en_US.UTF-8
+export EDITOR=/usr/bin/nvim
+
+
+# Prompt
+source "$HOME/.zsh/spaceship/spaceship.zsh"
+
+
+# Aliases
+alias http="xh"
+alias ls="eza -l --icons --git -a"
+alias lt="eza --tree --level=2 --long --icons --git"
+
+# Dirs
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ......="cd ../../../../.."
+
+
+# Add user-specific binaries
+export PATH="$PATH:/home/hankandre/.local/bin"
