@@ -1,0 +1,441 @@
+$env.config.buffer_editor = "nvim"
+config nu
+exit
+config nu
+exit
+systemctl reboot -h now
+sudo systemctl reboot -h now
+sudo systemctl reboot
+rm -rf ~/.config/hyprland
+nvim ~/.config/hypr/hyprland.conf
+exit
+cd ~/.config/hypr/
+nvim hyprland.conf
+paru -S zen-browser-bin
+paru -S nerd-fonts
+z hypr
+sudo pacman -S yazi ffmpeg 7zip jq poppler fd ripgrep fzf zoxide resvg imagemagick
+paru -S starship
+mkdir -p ~/.config/nushell
+mkdir ~/.config/nushell
+zoxide init nushell | save -f ~/.config/nushell/zoxide.nu
+cd ~/.config/nushell/
+nvim
+cd
+config nu
+which z
+config nu
+nvim ~/.config/hypr/hyprland.conf
+paru -S elephant-providerlist elephant-desktopapplications
+zen-browser-bin
+zen-browser
+nvim ~/.config/hypr/hyprland.conf
+systemctl --user enable elephant
+nvim ~/.config/hypr/hyprland.conf
+walker
+nvim ~/.config/hypr/hyprland.conf
+paru -S elephant-bin
+mkdir ~/.config/ghostty
+nvim ~/.config/ghostty/config
+paru -Ss adwaita
+paru -S glide browser
+paru -Ss glide browser
+paru -S glide-browser-bin
+nvim ~/.config/glide/glide.ts
+paru -R zen-browser-bin
+paru -S bottom btop
+btm
+paru -S zen-browser-bin
+nvim ~/.config/hypr/hyprland.conf
+paru -S waybar
+paru -S mako pipewire-pulse wireplumber qt5-wayland qt6-wayland xdg-desktop-portal-hyprland
+paru -Syu
+paru -S betterbird
+sudo pacman -S betterbird
+paru -Ss betterbird
+sudo pacman -Ss yay
+git clone https://aur.archlinux.org/paru
+impala
+ping https://google.com
+systemctl reboot
+paru -Ss betterbird
+paru -S betterbird-bin
+ping google.com
+git clone https://aur.archlinux.org/paru
+pacman -R paru
+sudo pacman -R paru
+cd paru/
+makepkg -si
+sudo pacman -R paru-git
+btm
+makepkg -si
+sudo rm /usr/lib/debug/usr/bin/paru.debug
+makepkg -si
+sudo pacman -R paru-debug
+makepkg -si
+which paru
+cd
+rm -rf ./paru/
+ls
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+nvim
+paru -S gitui
+nvim
+paru -S bun-bin
+paru -Ss bun
+paru -S github-cli
+gh auth login
+yazi
+paru -S openssh
+cd Work/
+ls
+gh repo clone hankandre.com
+gh auth login
+config nu
+which nvim
+config nu
+pnpm i
+yazi
+paru -Ss bun
+paru -S betterbird-bin bun
+paru -S betterbird-bin bun-bin
+paru -S wl-clipboard wl-clipboard-persist
+paru -S clipse
+nvim ~/.config/hypr/hyprland.conf
+mkdir ~/.config/zk
+nvim ~/.config/zk/config.toml
+z work
+mkdir notes
+zk 
+zk new note
+ls
+cd notes
+zk init
+zk new note
+ls -la
+rm -rf .zk/
+cd
+nvim ~/.config/zk/config.toml
+ls
+cd Work
+ls
+cd notes
+pwd
+zk new
+zk init
+zk note new
+zk new note
+zk new --help
+zk new
+nvim ~/.config/zk/config.toml
+zk new
+ls
+rm -rf ./*
+ls
+ls -la
+rm -rf .zk/
+ls
+zk new
+zk init
+zk new
+rm -rf .zk/
+zk init
+rm -rf ./*
+ls
+cd
+nvim
+z ~/.config/nvim/
+nvim
+zk new
+z note
+rm -rf ./*
+ls
+mkdir ~/.config/bottom
+nvim ~/.config/bottom/bottom.toml
+btm
+paru -S fastfetch
+paru -S chafa ddcutil directx-headers
+fastfetch
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch
+nvim ~/.config/fastfetch/config.jsonc
+fastfetch
+nvim ~/.config/walker/config.toml
+$env.EDITOR
+which nvim
+nvim ~/.bashrc
+config nu
+z ~/Downloads/
+ls
+paru -S unzip
+unzip spotlight.zip
+cp -r tailwind-plus-spotlight/spotlight-ts/ ~/Work/hankandre.com
+z work
+ls
+cd hankandre.com/
+ls
+nvim
+mv spotlight-ts/ ../
+cd ..
+ls
+rm -rf ./hankandre.com/
+mv spotlight-ts/ hankandre.com
+z hankandre.com/
+ls
+which bun
+paru -S bun-bin
+paru -S bun
+nvim
+paru -Ss bun
+curl -fsSL https://bun.com/install | bash
+which bun
+rm -rf ~/.bun
+paru -S bun-bin
+paru -Ss bun-bin
+sudo pacman -Ss bun
+sudo pacman -Ss bun-bin
+paru -S sww bun
+walker --help
+nvim ~/.config/hypr/hyprland.conf
+mkdir ~/.config/walker/config.toml
+rmdir ~/.config/walker/config.toml
+nvim ~/.config/walker/config.toml
+paru -R walker
+paru -R walker-bin
+paru -S walker-git
+paru -Ss walker
+paru -S sww bun
+paru -Ss swww
+paru -S swww bun-bin
+paru -Ss tstui
+paru -Ss tsui
+curl -fsSL https://neuralink.com/tsui/install.sh | bash
+sudo tsui
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo tsui
+paru -S walker
+curl -fsSL https://opencode.ai/install | bash
+config nu
+which opencode
+opencode auth login
+opencode
+z hypr
+z hyprlan
+z ~/.config/hypr/hyprland.conf
+z ~/.config/hypr/
+nvim 
+tailscale status
+sudo tailscale down
+sudo tailscale up
+sudo tailscale down
+sudo pacman -R tailscale
+curl -fsSL https://tailscale.com/install.sh | sh
+sudo tailscale up
+sudo tailscale --help
+sudo tailscale login
+sudo tailscale up
+paru -Syu
+paru -S jellyfin
+jellyfin
+paru -R jellyfin
+paru -R jellyfin-git
+paru -Ss jellyfin
+paru -S jellyfin-media-client
+paru -S jellyfin-media-player
+nvim hyprland.conf
+paru -R clipse
+hyprctl reload
+paru -S cliphist
+nvim hyprland.conf
+hyprctl reload
+paru -S wl-clipboard
+paru -R wl-clipboard-persist
+paru -Ss wl-clipboard
+paru -Ss clipboard-persist
+cd ~/.config/hypr/
+nvim hyprland.conf
+paru -S wl-clip-persist
+z hyp
+nvim
+elephant list-providers
+elephant listproviders
+paru -Ss elephant
+paru -S elephant-clipboard-bin elephant-calc elephant-archlinuxpkgs elephant-symbols-bin elephant-files-bin
+paru -S noto-fonts-emoji
+paru -R clipse
+paru -R cliphist
+z hyp
+nvim
+hyprctl reload
+paru -R mako
+nvim
+uwsm app -- mako
+uwsm app -- mako &
+/bin/bash
+paru -S imagemagick
+paru -S cliphist
+nvim
+z hypr
+nvim
+paru -R cliphist
+paru -S clipse
+nvim ~/.config/hypr/hyprland.conf
+paru -R elephant-clipboard-bin
+elephant generatedoc
+elephant generatedoc | bat
+paru -S bat
+paru -S fzf fd bat eza
+elephant generatedoc | bat
+bat --help
+bat --help | rg markdown
+bat --help | rg format
+bat --help | rg lang
+bat --list-languages
+bat --list-languages | rg mark
+elephant generatedoc | bat -l Markdown
+paru -S elephant-clipboard-bin
+nvim ~/.config/walker/config.toml
+walker --modules clipboard
+paru -Syu
+notify "hello"
+notify-send "Test Notification" "This is a test from Mako!"
+z down
+ls
+unzip `catppuccin mako main themes-catppuccin-macchiato.zip`
+mkdir ~/.config/mako
+mkdir ~/.config/mako/themes
+ls
+mkdir catppuccin-macchiato
+mv catppuccin-macchiato ~/.config/mako/themes/
+mv catppuccin-macchiato* ~/.config/mako/themes/catppuccin-macchiato/
+ls
+notify-send "Test Notification" "This is a test from Mako!"
+man makoctl
+paru -Ss man-db
+paru -S man-db
+man makoctl
+man 5 mako
+z mako
+nvim
+z ~/.config/mako/
+nvim
+notify-send "Test Notification" "This is a test from Mako!"
+man 5 mako
+mv ~/.config/mako/config.toml ~/.config/mako/config
+notify-send "Test Notification" "This is a test from Mako!"
+man 5 mako
+makoctl --help
+makoctl reload
+notify-send "Test Notification" "This is a test from Mako!"
+cd ~/.config/hypr/
+nvim
+paru -S gnome-themes-extra
+nvim
+paru -S libreoffice-fresh
+paru -S coin-ormp mariadb-libs postgresql-libs libpaper unixodbc sane libwpg
+paru -S rhino
+paru -Syu
+ls
+yazi
+paru -Ss cups
+paru -S cups cups-pdf
+sudo systemctl enable cups
+sudo systemctl start cups
+lpstat -p -d
+cat /etc/cups/cupsd.conf
+sudo cat /etc/cups/cupsd.conf
+sudo mkdir -p /etc/systemd/resolved.conf.d
+echo -e "[Resolve]\nMulticastDNS=no" | sudo tee /etc/systemd/resolved.conf.d/10-disable-multicast.conf
+/bin/bash
+yazi
+cd ~/.config/systemd/user/
+sudo systemctl enable swww.service
+systemctl --user enable swww.service
+systemctl --user start swww.service
+systemctl --user enable change_wallpaper.service
+mv change-wallpaper.service change_wallpaper.service
+systemctl --user enable change_wallpaper.service
+systemctl --user start change_wallpaper.service
+systemctl --user enable change_wallpaper.timer
+ls
+mv wallpaper.timer change_wallpaper.timer
+systemctl --user enable change_wallpaper.timer
+systemctl --user start change_wallpaper.timer
+curl -L -o spiderman.jpg https://w.wallhaven.cc/full/d8/wallhaven-d86g9o.jpg
+ls
+mv ~/Wallpapers/current/
+mv spiderman.jpg ~/Wallpapers/current/
+z current
+curl -L -o drive.png https://w.wallhaven.cc/full/gw/wallhaven-gwpzdd.png
+ls
+mv drive.png ~/Wallpapers/current/
+cd ~/Wallpapers/current/
+ls
+z swww
+z .config
+z ~/.config/swww/
+ls
+nvim swww.sh
+z ../systemd/user/
+ls
+z hyp
+nvim
+walker -m clipboard
+paru -S stow
+cd
+ls
+ls Work/
+ls
+cd Work/
+mkdir dotfiles
+cd dotfiles/
+git init -b main
+/bin/bash
+mkdir hypr
+mkdir hypr/.config
+mv ~/.config/hypr/* hypr/.config/
+stow -nvt hypr
+mkdir hypr/.config/hypr
+mv hypr/.config/hyprland.conf hypr/.config/hypr/
+stow -nvt ~ hypr
+gst
+mkdir nushell/.config/nushell
+mv nushell/.config/nushell/* ~/.config/nushell/
+ls
+stow -D hypr
+stow -D dotfiles
+stow -D nushell
+ls -la
+ls -l hypr/.config/
+ls -l hypr/.config/hypr/
+ls
+rm -rf hypr/
+rm -rf nushell/
+cd ..
+rm -rf ./dotfiles
+git init --bare dotfiles
+git config --global init.defaultBranch main
+cd dotfiles/
+ls
+git branch -m main
+cd
+nvim
+config nu
+gst
+z hank
+gst
+ls
+git init
+gst
+paru -S lazygit
+gitui
+paru -S lazygit
+$env.HOME
+config nu
+cd ~/.config/
+ls
+dotfiles add bottom
+config nu
+cd .config
+dotfiles add bottom
+ls
